@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/54-grupe-ufo
+Site published at: https://github.com/GintareLa/54-grupe-ufo
 
 Design: https://dribbble.com/shots/2815937-404-page
 
@@ -44,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/front-end-by-rimantas/54-grupe-ufo.git
+   git clone https://github.com/GintareLa/54-grupe-ufo.git
    ```
 2. Install NPM packages
    ```sh
